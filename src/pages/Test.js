@@ -1,0 +1,8 @@
+import React from 'react'
+
+export default function Test() {
+  return (
+    <div className="flex items-center justify-center p-5">
+    </div>
+  )
+}
